@@ -1,0 +1,20 @@
+{
+  "rwpack": 1,
+  "id": "ambience-bar",
+  "name": "氛围条",
+  "version": "1.0.0",
+  "author": "官方示例",
+  "layer": "系统扩展",
+  "minCardVersion": "2.0",
+  "desc": "让 AI 写【氛围：暴雨】这种标记时，渲染成一条纸感的氛围条，而不是把标记原样贴在正文里。",
+  "tags": ["界面", "显示"],
+  "regexes": [
+    {
+      "name": "氛围条",
+      "find": "/【氛围[:：]?\\s*([^【】\\n]{1,24})】/g",
+      "replace": "```html\n<div style=\"margin:10px 0;padding:9px 14px;border-radius:10px;background:#faf8f2;border:1px solid #e7dcc2;border-left:3px solid #b8904d;color:#4a4130;font-size:13px;line-height:1.7\"><span style=\"color:#a68c5c;letter-spacing:1px;font-size:11px\">氛围</span>　$1</div>\n```",
+      "source": ["ai_output"],
+      "maxDepth": 3
+    }
+  ]
+}
