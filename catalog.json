@@ -1,7 +1,7 @@
 {
   "rwcatalog": 1,
-  "generatedAt": "2026-10-22T14:45:21.791Z",
-  "count": 3,
+  "generatedAt": "2026-10-22T15:30:12.121Z",
+  "count": 2,
   "packs": [
     {
       "id": "ambience-bar",
@@ -46,27 +46,6 @@
       "regexCount": 0,
       "chars": 985,
       "url": "https://rwws-workshop.323795564.workers.dev/api/pack/marriage-and-matchmaking"
-    },
-    {
-      "id": "maggs",
-      "name": "人情往来与随礼账",
-      "version": "1.0.0",
-      "author": "Akail",
-      "desc": "随礼定价表、三条不成文规矩（只多不少 / 整数带尾 / 记账）、人情账本的三种债与复利",
-      "layer": "玩法系统",
-      "versionLabel": "",
-      "notes": "",
-      "discord": "",
-      "cover": "",
-      "displayTags": [],
-      "tags": [
-        "制度"
-      ],
-      "minCardVersion": "2.0",
-      "entryCount": 2,
-      "regexCount": 0,
-      "chars": 1165,
-      "url": "https://rwws-workshop.323795564.workers.dev/api/pack/maggs"
     }
   ]
 }
