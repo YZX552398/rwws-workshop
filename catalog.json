@@ -1,7 +1,7 @@
 {
   "rwcatalog": 1,
-  "generatedAt": "2026-10-24T15:44:04.233Z",
-  "count": 3,
+  "generatedAt": "2026-11-07T05:18:14.417Z",
+  "count": 4,
   "packs": [
     {
       "id": "ambience-bar",
@@ -27,6 +27,34 @@
       "regexCount": 1,
       "chars": 0,
       "url": "https://rwws-workshop.323795564.workers.dev/api/pack/ambience-bar"
+    },
+    {
+      "id": "guwu-era",
+      "name": "古武年代",
+      "version": "1.0.0",
+      "author": "本地定制",
+      "desc": "在现实世界上加一层古武：武籍与官方管控、四年一届天下第一武道大会的申办角力与正赛、以及打完之后的权限与名望结算。",
+      "layer": "世界设定",
+      "versionLabel": "",
+      "notes": "",
+      "discord": "",
+      "cover": "",
+      "displayTags": [],
+      "constantCount": 0,
+      "constantChars": 0,
+      "promptRegexCount": 0,
+      "tags": [
+        "古武",
+        "武术管控",
+        "武道大会",
+        "现代都市",
+        "制度"
+      ],
+      "minCardVersion": "2.0",
+      "entryCount": 4,
+      "regexCount": 0,
+      "chars": 4962,
+      "url": "https://rwws-workshop.323795564.workers.dev/api/pack/guwu-era"
     },
     {
       "id": "marriage-and-matchmaking",
