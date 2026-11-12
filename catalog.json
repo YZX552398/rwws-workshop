@@ -1,33 +1,8 @@
 {
   "rwcatalog": 1,
-  "generatedAt": "2026-11-12T13:37:03.907Z",
-  "count": 3,
+  "generatedAt": "2026-11-12T13:37:16.465Z",
+  "count": 2,
   "packs": [
-    {
-      "id": "ambience-bar",
-      "name": "氛围条",
-      "version": "1.0.0",
-      "author": "官方示例",
-      "desc": "让 AI 写【氛围：暴雨】这种标记时，渲染成一条纸感的氛围条，而不是把标记原样贴在正文里。",
-      "layer": "系统扩展",
-      "versionLabel": "",
-      "notes": "",
-      "discord": "",
-      "cover": "",
-      "displayTags": [],
-      "constantCount": 0,
-      "constantChars": 0,
-      "promptRegexCount": 0,
-      "tags": [
-        "界面",
-        "显示"
-      ],
-      "minCardVersion": "2.0",
-      "entryCount": 0,
-      "regexCount": 1,
-      "chars": 0,
-      "url": "https://rwws-workshop.323795564.workers.dev/api/pack/ambience-bar"
-    },
     {
       "id": "guwu-era",
       "name": "古武年代",
