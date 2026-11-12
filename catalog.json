@@ -1,7 +1,7 @@
 {
   "rwcatalog": 1,
-  "generatedAt": "2026-11-07T05:18:14.417Z",
-  "count": 4,
+  "generatedAt": "2026-11-12T13:37:03.907Z",
+  "count": 3,
   "packs": [
     {
       "id": "ambience-bar",
@@ -55,31 +55,6 @@
       "regexCount": 0,
       "chars": 4962,
       "url": "https://rwws-workshop.323795564.workers.dev/api/pack/guwu-era"
-    },
-    {
-      "id": "marriage-and-matchmaking",
-      "name": "婚恋与相亲",
-      "version": "1.0.0",
-      "author": "官方示例",
-      "desc": "补上母卡没覆盖的一块：从相亲介绍到婚姻决策，一个人是怎么被推着走进婚姻的。",
-      "layer": "世界设定",
-      "versionLabel": "",
-      "notes": "",
-      "discord": "",
-      "cover": "",
-      "displayTags": [],
-      "constantCount": 0,
-      "constantChars": 0,
-      "promptRegexCount": 0,
-      "tags": [
-        "生活",
-        "关系"
-      ],
-      "minCardVersion": "2.0",
-      "entryCount": 1,
-      "regexCount": 0,
-      "chars": 985,
-      "url": "https://rwws-workshop.323795564.workers.dev/api/pack/marriage-and-matchmaking"
     },
     {
       "id": "npc-intimacy-progression",
