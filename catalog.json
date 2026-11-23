@@ -1,7 +1,7 @@
 {
   "rwcatalog": 1,
-  "generatedAt": "2026-11-23T13:00:40.296Z",
-  "count": 4,
+  "generatedAt": "2026-11-23T13:01:12.701Z",
+  "count": 5,
   "packs": [
     {
       "id": "guwu-era",
@@ -52,6 +52,28 @@
       "regexCount": 0,
       "chars": 1750,
       "url": "https://rwws-workshop.323795564.workers.dev/api/pack/tw-social-and-romance"
+    },
+    {
+      "id": "tw-campus-and-life",
+      "name": "台湾校园与写实社会生态",
+      "version": "1.0.0",
+      "author": "一個超級mika廚（藺）",
+      "desc": "补充台湾政经现实、物价工资租屋、职业社会评价、制服学生会、宽松师生与108课纲制度，及未写明细节须查证不套用大陆方案铁律",
+      "layer": "世界设定",
+      "versionLabel": "",
+      "notes": "",
+      "discord": "",
+      "cover": "",
+      "displayTags": [],
+      "constantCount": 0,
+      "constantChars": 0,
+      "promptRegexCount": 0,
+      "tags": [],
+      "minCardVersion": "2.0",
+      "entryCount": 4,
+      "regexCount": 0,
+      "chars": 3575,
+      "url": "https://rwws-workshop.323795564.workers.dev/api/pack/tw-campus-and-life"
     },
     {
       "id": "tw-taoyuan-local",
