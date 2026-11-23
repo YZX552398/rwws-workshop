@@ -1,7 +1,7 @@
 {
   "rwcatalog": 1,
-  "generatedAt": "2026-11-23T12:59:57.461Z",
-  "count": 3,
+  "generatedAt": "2026-11-23T13:00:40.296Z",
+  "count": 4,
   "packs": [
     {
       "id": "guwu-era",
@@ -52,6 +52,28 @@
       "regexCount": 0,
       "chars": 1750,
       "url": "https://rwws-workshop.323795564.workers.dev/api/pack/tw-social-and-romance"
+    },
+    {
+      "id": "tw-taoyuan-local",
+      "name": "桃园十三区与全级学校深度生态",
+      "version": "1.0.0",
+      "author": "一個超級mika廚（藺）",
+      "desc": "完整收录桃园十三区文化（艺文特区豪宅、中坜桃园一边一国、中坜台湾佛罗里达与移工生态）及桃园知名国中、全部公私立高中职与大专院校落点评价\n(事實上是本人中壢人:>)",
+      "layer": "世界设定",
+      "versionLabel": "",
+      "notes": "",
+      "discord": "",
+      "cover": "",
+      "displayTags": [],
+      "constantCount": 0,
+      "constantChars": 0,
+      "promptRegexCount": 0,
+      "tags": [],
+      "minCardVersion": "2.0",
+      "entryCount": 4,
+      "regexCount": 0,
+      "chars": 4032,
+      "url": "https://rwws-workshop.323795564.workers.dev/api/pack/tw-taoyuan-local"
     },
     {
       "id": "npc-intimacy-progression",
