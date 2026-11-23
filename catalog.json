@@ -1,7 +1,7 @@
 {
   "rwcatalog": 1,
-  "generatedAt": "2026-11-12T13:37:16.465Z",
-  "count": 2,
+  "generatedAt": "2026-11-23T12:59:57.461Z",
+  "count": 3,
   "packs": [
     {
       "id": "guwu-era",
@@ -30,6 +30,28 @@
       "regexCount": 0,
       "chars": 4962,
       "url": "https://rwws-workshop.323795564.workers.dev/api/pack/guwu-era"
+    },
+    {
+      "id": "tw-social-and-romance",
+      "name": "台湾人际交往、恋爱与婚嫁",
+      "version": "1.0.0",
+      "author": "一個超級mika廚（藺）",
+      "desc": "补充台湾日常人际边界与红包礼俗、IG回限动与正式告白文化、去势利约会与外宿汽旅，以及无高额彩礼的见家长与婚嫁观念，更加貼合台灣現實",
+      "layer": "世界设定",
+      "versionLabel": "",
+      "notes": "",
+      "discord": "",
+      "cover": "",
+      "displayTags": [],
+      "constantCount": 0,
+      "constantChars": 0,
+      "promptRegexCount": 0,
+      "tags": [],
+      "minCardVersion": "2.0",
+      "entryCount": 3,
+      "regexCount": 0,
+      "chars": 1750,
+      "url": "https://rwws-workshop.323795564.workers.dev/api/pack/tw-social-and-romance"
     },
     {
       "id": "npc-intimacy-progression",
