@@ -1,7 +1,7 @@
 {
   "rwcatalog": 1,
-  "generatedAt": "2026-11-23T13:01:12.701Z",
-  "count": 5,
+  "generatedAt": "2026-11-24T13:43:48.893Z",
+  "count": 6,
   "packs": [
     {
       "id": "guwu-era",
@@ -74,6 +74,28 @@
       "regexCount": 0,
       "chars": 3575,
       "url": "https://rwws-workshop.323795564.workers.dev/api/pack/tw-campus-and-life"
+    },
+    {
+      "id": "taiwan-dlc-expansion",
+      "name": "台灣dlc擴展完整版 v1.0",
+      "version": "1.0.0",
+      "author": "一個超級mika廚（藺）",
+      "desc": "寫台灣的真實dlc內容，也是我前面好幾個作品的集合版本。 台灣本地人製作 如果覺得部分內容不喜歡自行更改不要來罵作者 謝謝你的體諒 :>",
+      "layer": "世界设定",
+      "versionLabel": "",
+      "notes": "仅限台湾主题存档开启！为确保台湾日常与校园剧情顺畅触发，本包保留了较宽松的通用触发词（如工资、房租、高中、老师、恋爱、红包、结婚等）；台湾与大陆在币制、学制、物价与婚嫁习俗差异极大，游玩非台湾存档时请务必暂时停用或卸载本包。2) 常驻成本：0 条常驻（全部 23 条皆为关键词触发），未触发时不占用提示词字数。3) 支持简体与繁体中文双向触发；玩家使用繁体输入时，AI 会自动切换为自然台湾繁体中文叙事（且保留母卡系统变量格式不变）",
+      "discord": "",
+      "cover": "",
+      "displayTags": [],
+      "constantCount": 0,
+      "constantChars": 0,
+      "promptRegexCount": 0,
+      "tags": [],
+      "minCardVersion": "2.0",
+      "entryCount": 46,
+      "regexCount": 0,
+      "chars": 51188,
+      "url": "https://rwws-workshop.323795564.workers.dev/api/pack/taiwan-dlc-expansion"
     },
     {
       "id": "tw-taoyuan-local",
